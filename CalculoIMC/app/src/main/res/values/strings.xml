@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalculoIMC</string>
+
+    <string name="imc_msg">Seu IMC é de %1$f kg/m²!</string>
+</resources>
