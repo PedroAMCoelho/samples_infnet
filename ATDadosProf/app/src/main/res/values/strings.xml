@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Currículo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="nav_item_info">Informações pessoais</string>
+    <string name="nav_item_formacao">Formação</string>
+    <string name="nav_item_exp">Experiência profissional</string>
+    <string name="nav_item_cursos">Cursos</string>
+    <string name="nav_item_pub">Publicações</string>
+</resources>
